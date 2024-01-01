@@ -11,7 +11,7 @@ Welcome,my ![Visitor Count](https://profile-counter.glitch.me/Liuzycn/count.svg)
 - 👯 I’m looking to collaborate on: **Developing new and intriguing open-source projects, with the community, for the community**
 - 🤔 I’m looking for help with **again Open Source. This is really fun.**
 
-Let's connect and chat! Open to anything under the sun.  
+Let's connect and chat! Open to anything under the sun.   
 [![Gmail Badge](https://img.shields.io/badge/-liuzy0158@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:liuzy0158@gmail.com)](mailto:liuzy0158@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-Liuzy-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Liudoublefire)](https://twitter.com/Liudoublefire)
 
