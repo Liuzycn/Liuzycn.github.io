@@ -1,10 +1,10 @@
 ### Hello🙏🏻, I'm Liu Zhongyuan,a Chinese college student!
-Welcome,my ![Visitor Count](https://profile-counter.glitch.me/Liuzycn/count.svg) visitor
+Welcome,my ![Visitor Count](https://profile-counter.glitch.me/Liuzycn/count.svg) visitor  
 
 
 <img align="left" src="https://media.giphy.com/media/zmiadtrSYNiLYwcXHD/giphy.gif?cid=82a1493bapb94hde9i500kisrmzod4r7iagv6zlytyqh156s&ep=v1_gifs_trending&rid=giphy.gif&ct=g" alt="Liu Zhongyuan" width="600" height="150"/>&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
 <img align="" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="200" height="200"/>
-### Here are some ideas to get you started:
+### Here are some ideas to get you started:  
 - 🔭 I’m currently studying in the China University of Petroleum.
 - 💬 I'm now major in **intelligent science and technology**.
 - 🌱 I’m currently researching on the **Graph Neural Network**
