@@ -6,7 +6,7 @@ Welcome,my ![Visitor Count](https://profile-counter.glitch.me/Liuzycn/count.svg)
 <img align="" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="200" height="200"/>
 ### Here are some ideas to get you started:  
 - 🔭 I’m currently studying in the China University of Petroleum.
-- 💬 I'm now major in **Intelligent Science and Technology**.
+- 💬 I'm majoring in **Intelligent Science and Technology**.
 - 🌱 I’m currently researching on the **Graph Neural Network**
 - 👯 I’m looking to collaborate on: **Developing new and intriguing open-source projects, with the community, for the community**
 - 🤔 I’m looking for help with **again Open Source. This is really fun.**
